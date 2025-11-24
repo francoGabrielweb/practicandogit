@@ -1,0 +1,6 @@
+body {
+  background: #ffffff; /* Hotfix: fondo corrupto en producción */
+}
+h1 {
+  color: #333;
+}
