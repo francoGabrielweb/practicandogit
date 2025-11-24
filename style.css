@@ -1,6 +1,8 @@
 body {
   background: #ffffff; /* Hotfix: fondo corrupto en producción */
 }
-h1 {
-  color: #333;
+h1{
+  color: blue;
+  text-decoration: underline;
+  border: 10px solid red;
 }
